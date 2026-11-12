@@ -3,7 +3,7 @@
 Pure stdlib, no network, no randomness, no clock. Writes /output/entry.txt."""
 from pathlib import Path
 
-SUMMARY = """November 11, 2026 — a world news summary.
+SUMMARY = """World news summary, November 11, 2026 — evening/night update.
 
 Russia-Ukraine-US: the first trilateral talks since February opened in Abu Dhabi — nearly four hours, resuming Wednesday (Xinhua). Russia reported downing 627 Ukrainian drones; a Ukrainian strike hit the Smolensk region and Ust-Luga port, killing two.
 
