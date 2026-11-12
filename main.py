@@ -11,9 +11,9 @@ Middle East: Yemen's Houthis claimed missile and drone strikes on Riyadh's King 
 
 Asia: Japan's Supreme Court ruled the July 2025 Upper House election in an 'unconstitutional state' over vote gaps up to 3.13x, without nullifying results (Kyodo). NTT Docomo restored most service after a nationwide 5G outage (Jiji).
 
-Europe: pile-ups on Bulgaria's Trakia motorway near Yambol killed 11 and injured 50 (Health Ministry). The ECB said Lagarde's early exit will not delay the digital euro (Euronews). At COP31, leaders warned conflict must not distract from climate action (Reuters).
+Europe: pile-ups on Bulgaria's Trakia motorway near Yambol killed 11 and injured 50 (Health Ministry). The ECB said Lagarde's early exit does not delay the digital euro (Euronews). At COP31, leaders warned conflict must not distract from climate action (Reuters).
 
-Americas: the White House opposed impeachment efforts against Defense Secretary Hegseth (Xinhua). US stocks closed lower as Nvidia slid and hotter inflation data fueled rate fears (Reuters). Maduro's lawyers asked Washington to drop a torture charge (Xinhua).
+Americas: the White House opposed impeachment efforts against Defense Secretary Hegseth (Xinhua). US stocks closed lower; Nvidia slid and hotter inflation data fueled rate fears (Reuters). Maduro's lawyers asked Washington to drop a torture charge (Xinhua).
 
 Africa/space: Ethiopia accused Eritrea and Sudan of backing armed groups and drone attacks (Addis Standard). SpaceX launched a classified Space Force mission from Vandenberg, its second in six days."""
 
